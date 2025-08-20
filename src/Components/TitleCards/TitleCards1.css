@@ -34,3 +34,39 @@ margin-bottom: 30px;
     bottom: 10px;
     right: 10px;
 }
+
+
+@media (max-width:800px){
+    .Title-Cards1{
+     margin-top:20px;
+     margin-bottom: 0;
+    }
+
+    .Title-Cards1 h2{
+        font-size: 20px;
+    }
+
+    .Card-List1 img{
+        width: 200px;
+    }
+
+    .Card-List1 p{
+        font-size: 12px;
+    }
+}
+
+
+@media (max-width:500px){
+
+    .Title-Cards1 h2{
+        font-size: 15px;
+    }
+
+    .Card-List1 img{
+        width: 150px;
+    }
+
+    .Card-List1 p{
+        font-size: 10px;
+    }
+}

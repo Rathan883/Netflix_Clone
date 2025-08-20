@@ -73,7 +73,7 @@
         display: none;
     }
 
-    .hero-btn{
+    .hero-btn {
      margin-bottom: 30px;
     }
 }
@@ -94,7 +94,7 @@
     }
 
 
-    .hero-btn img{
+    .hero-btn .btn img{
         width: 20px;
     }
     .more-cards{
@@ -108,11 +108,11 @@
         display: none;
 
     }
-    .hero-btn img{
+    .hero-btn .btn img{
         width: 15px;
     }
 
-    .hero-btn{
+    .hero-btn .btn{
         padding: 4px 10px;
         gap:5px;
         font-size: 10px;
